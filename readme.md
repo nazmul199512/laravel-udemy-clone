@@ -1,6 +1,6 @@
 ## Laravel Udemy Clone
 
-### ###  [Live](http://nazmul.rafalotech.com/laravel-udemy-clone/public/?fbclid=IwAR0b26ZS6AWaMABEx3wT9p9MnNlz_TTB46GPOSgb9vIuHIW-KapMDFtzTYg)
+### [Live](http://nazmul.rafalotech.com/laravel-udemy-clone/public/)
 
 ### Screenshot
 
